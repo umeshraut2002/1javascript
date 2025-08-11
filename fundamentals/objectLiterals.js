@@ -9,6 +9,4 @@ let chaiRecipe = {
     instruction: `Boil Water First then add tealeaes and sugar into it and ginger add milk`
 }
 
-// console.log(chaiRecipe.ingredients.spices[1]);
-
-let updatedChaiRecipe = 
+console.log(chaiRecipe.ingredients.spices[1]);
